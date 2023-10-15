@@ -6,5 +6,6 @@ Simple vanilla JavaScript project for creating, updating, and completing a shopp
 - Deleting individual items
 - Clearing the entire list
 - Editing your existing list
+- Real-time filtering of items
 
 **Try it here:** https://the-shopping-list-js.netlify.app/
